@@ -11,7 +11,7 @@ export const router  = createRouter({
             children: [{
                 path: '/hello',
                 component: HelloWorld
-            },
+            }]
         }
     ]
 })
